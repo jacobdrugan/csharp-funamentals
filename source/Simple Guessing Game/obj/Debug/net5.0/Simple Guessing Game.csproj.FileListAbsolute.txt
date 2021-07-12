@@ -1,0 +1,16 @@
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\obj\Debug\net5.0\Simple Guessing Game.csproj.AssemblyReference.cache
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\obj\Debug\net5.0\Simple Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\obj\Debug\net5.0\Simple Guessing Game.AssemblyInfoInputs.cache
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\obj\Debug\net5.0\Simple Guessing Game.AssemblyInfo.cs
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\obj\Debug\net5.0\Simple Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\bin\Debug\net5.0\Simple Guessing Game.exe
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\bin\Debug\net5.0\Simple Guessing Game.deps.json
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\bin\Debug\net5.0\Simple Guessing Game.runtimeconfig.json
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\bin\Debug\net5.0\Simple Guessing Game.runtimeconfig.dev.json
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\bin\Debug\net5.0\Simple Guessing Game.dll
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\bin\Debug\net5.0\ref\Simple Guessing Game.dll
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\bin\Debug\net5.0\Simple Guessing Game.pdb
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\obj\Debug\net5.0\Simple Guessing Game.dll
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\obj\Debug\net5.0\ref\Simple Guessing Game.dll
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\obj\Debug\net5.0\Simple Guessing Game.pdb
+C:\Users\jacob\CSharp Projects\source\Simple Guessing Game\obj\Debug\net5.0\Simple Guessing Game.genruntimeconfig.cache

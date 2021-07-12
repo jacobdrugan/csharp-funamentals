@@ -1,0 +1,16 @@
+C:\Users\jacob\CSharp Projects\source\Gradebook\bin\Debug\net5.0\source.exe
+C:\Users\jacob\CSharp Projects\source\Gradebook\bin\Debug\net5.0\source.deps.json
+C:\Users\jacob\CSharp Projects\source\Gradebook\bin\Debug\net5.0\source.runtimeconfig.json
+C:\Users\jacob\CSharp Projects\source\Gradebook\bin\Debug\net5.0\source.runtimeconfig.dev.json
+C:\Users\jacob\CSharp Projects\source\Gradebook\bin\Debug\net5.0\source.dll
+C:\Users\jacob\CSharp Projects\source\Gradebook\bin\Debug\net5.0\ref\source.dll
+C:\Users\jacob\CSharp Projects\source\Gradebook\bin\Debug\net5.0\source.pdb
+C:\Users\jacob\CSharp Projects\source\Gradebook\obj\Debug\net5.0\source.csproj.AssemblyReference.cache
+C:\Users\jacob\CSharp Projects\source\Gradebook\obj\Debug\net5.0\source.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\CSharp Projects\source\Gradebook\obj\Debug\net5.0\source.AssemblyInfoInputs.cache
+C:\Users\jacob\CSharp Projects\source\Gradebook\obj\Debug\net5.0\source.AssemblyInfo.cs
+C:\Users\jacob\CSharp Projects\source\Gradebook\obj\Debug\net5.0\source.csproj.CoreCompileInputs.cache
+C:\Users\jacob\CSharp Projects\source\Gradebook\obj\Debug\net5.0\source.dll
+C:\Users\jacob\CSharp Projects\source\Gradebook\obj\Debug\net5.0\ref\source.dll
+C:\Users\jacob\CSharp Projects\source\Gradebook\obj\Debug\net5.0\source.pdb
+C:\Users\jacob\CSharp Projects\source\Gradebook\obj\Debug\net5.0\source.genruntimeconfig.cache

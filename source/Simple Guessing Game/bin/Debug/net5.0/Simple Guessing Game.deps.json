@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Simple Guessing Game/1.0.0": {
+        "runtime": {
+          "Simple Guessing Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple Guessing Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

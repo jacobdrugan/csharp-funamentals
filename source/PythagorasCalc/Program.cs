@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace PythagorasCalc
 {
@@ -6,7 +7,7 @@ namespace PythagorasCalc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            tricalculation.calculations();
         }
     }
 }

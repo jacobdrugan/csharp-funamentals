@@ -1,0 +1,16 @@
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\bin\Debug\net5.0\PythagorasCalc.exe
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\bin\Debug\net5.0\PythagorasCalc.deps.json
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\bin\Debug\net5.0\PythagorasCalc.runtimeconfig.json
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\bin\Debug\net5.0\PythagorasCalc.runtimeconfig.dev.json
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\bin\Debug\net5.0\PythagorasCalc.dll
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\bin\Debug\net5.0\ref\PythagorasCalc.dll
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\bin\Debug\net5.0\PythagorasCalc.pdb
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\obj\Debug\net5.0\PythagorasCalc.csproj.AssemblyReference.cache
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\obj\Debug\net5.0\PythagorasCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\obj\Debug\net5.0\PythagorasCalc.AssemblyInfoInputs.cache
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\obj\Debug\net5.0\PythagorasCalc.AssemblyInfo.cs
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\obj\Debug\net5.0\PythagorasCalc.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\obj\Debug\net5.0\PythagorasCalc.dll
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\obj\Debug\net5.0\ref\PythagorasCalc.dll
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\obj\Debug\net5.0\PythagorasCalc.pdb
+C:\Users\jacob\Documents\GitHub\csharp-fundamentals\source\PythagorasCalc\obj\Debug\net5.0\PythagorasCalc.genruntimeconfig.cache

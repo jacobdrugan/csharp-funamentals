@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\source",
+    "\\source\\AdventofCode2020"
   ],
-  "SelectedNode": "\\CustomerDB.sln",
   "PreviewInSolutionExplorer": false
 }

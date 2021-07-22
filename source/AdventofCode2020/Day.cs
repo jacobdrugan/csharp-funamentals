@@ -1,7 +1,7 @@
 using System;
-using System.IO;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 
 namespace AdventofCode2020
 {
@@ -9,11 +9,21 @@ namespace AdventofCode2020
     {
         public static void maintask()
         {
-            List<string> puzinp;
             string filepath = "day1.txt";
-            puzinp = File.ReadAllLines(filepath).ToList();
-
-           
+            List<int> puzinp = File.ReadAllLines(filepath).Select(Int32.Parse).ToList();
+            //var target = 2020;
+            //Order list
+            puzinp.Sort();
+            foreach (int a in puzinp)
+            {
+                Console.WriteLine($"{a}");
+            }
+            //Find Median
+            int med = puzinp.Count()/2;
+            //Split at median
+            
+            //take top away from 2020 and see if small matches result 2020 - x smaller than x  
+            
         }
     }
 }

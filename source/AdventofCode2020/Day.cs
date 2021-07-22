@@ -21,7 +21,17 @@ namespace AdventofCode2020
             //Find Median
             int med = puzinp.Count()/2;
             //Split at median
-            
+            foreach(int a in puzinp)
+            {
+                if(puzinp[a] > med)
+                    {
+                    Console.WriteLine(a);
+                    }
+                else
+                    {
+                    Console.WriteLine("BELOW");
+                    }
+            }
             //take top away from 2020 and see if small matches result 2020 - x smaller than x  
             
         }

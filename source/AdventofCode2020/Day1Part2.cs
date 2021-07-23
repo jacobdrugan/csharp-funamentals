@@ -11,7 +11,8 @@ namespace AdventofCode2020
     {
         public static void maintask()
         {
-            
+            string filepath = "day1.txt";
+            List<int> input = File.ReadAllLines(filepath).Select(Int32.Parse).ToList(); 
         }
     }
 }

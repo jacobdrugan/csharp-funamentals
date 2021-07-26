@@ -18,24 +18,43 @@ namespace AdventofCode2020
             List<int> puzinphigh;
             puzinphigh = new List<int>();
             int med = puzinp.Count()/2;
-            int b = 0;
             int val0 = 0;
             int val1 = 0;
             int val2 = 0;
             int target = 2020;
+
+            //NEED TO CUT NUMBERS WITH NO CHANCE
+            //CLEAN OUT IMPOSSIBLE COMBINATIONS
+            //MEDIAN METHOD NOT VERY EFFECTIVE
+            //grab last number named x, find the target y = 2020 - x, and the simple solution is to do a foreach (a in porizinp) if (a==y) {success; break}
+            //var index = prizinput.length/2
+            //while (index > 0 && index < prizinput.length)
+            //{
+            //if (prizinp[index] == y)
+            //{
+            ////success    
+            //break;
+            //}
+            //else if (pizinp[index] < y)
+            //{
+            //index = index/2; 
+            //}
+            //else 
+            //{
+            //index = index + (index/2)    
+            //}
+            //}
             
             puzinp.Sort();
             foreach(int a in puzinp)
             {
-                if (puzinp[b] > puzinp[med])
+                if (a > puzinp[med])
                 {
                     puzinphigh.Add(a);
-                    b++;
                 }
                 else
                 {
                     puzinplow.Add(a);
-                    b++;
                 }
             }
             foreach(int highlistitem in puzinphigh)

@@ -6,9 +6,10 @@ namespace AdventofCode2020
     {
         public static void Main()
         {
-            TestFile.maintask();
+            // TestFile.maintask();
             // Day1Part1.maintask();
             // Day1Part2.maintask();
+            Day2.maintask();
             Console.ReadKey();
         }
     }

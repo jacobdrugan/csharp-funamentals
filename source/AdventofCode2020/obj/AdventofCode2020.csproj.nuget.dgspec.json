@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\source\\repos\\jacobdrugan\\csharp-fundamentals-1\\source\\AdventofCode2020\\AdventofCode2020.csproj": {}
+    "C:\\Users\\jacob\\Documents\\GitHub\\csharp-fundamentals\\source\\AdventofCode2020\\AdventofCode2020.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\source\\repos\\jacobdrugan\\csharp-fundamentals-1\\source\\AdventofCode2020\\AdventofCode2020.csproj": {
+    "C:\\Users\\jacob\\Documents\\GitHub\\csharp-fundamentals\\source\\AdventofCode2020\\AdventofCode2020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\jacobdrugan\\csharp-fundamentals-1\\source\\AdventofCode2020\\AdventofCode2020.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\Documents\\GitHub\\csharp-fundamentals\\source\\AdventofCode2020\\AdventofCode2020.csproj",
         "projectName": "AdventofCode2020",
-        "projectPath": "C:\\Users\\jacob\\source\\repos\\jacobdrugan\\csharp-fundamentals-1\\source\\AdventofCode2020\\AdventofCode2020.csproj",
+        "projectPath": "C:\\Users\\jacob\\Documents\\GitHub\\csharp-fundamentals\\source\\AdventofCode2020\\AdventofCode2020.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\source\\repos\\jacobdrugan\\csharp-fundamentals-1\\source\\AdventofCode2020\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\Documents\\GitHub\\csharp-fundamentals\\source\\AdventofCode2020\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

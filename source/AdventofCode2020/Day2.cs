@@ -21,7 +21,6 @@ namespace AdventofCode2020
             char letter;
             int min = 0;
             int max = 0;
-            int matchedchars = 0; 
             int validcount = 0;
             int invalidcount = 0;
             
@@ -29,6 +28,7 @@ namespace AdventofCode2020
 
             foreach (string pass in puzzleinput)
             {
+                int matchedchars = 0; 
                 string[] puzzleinputsplit = pass.Split(':');
                 var req = puzzleinputsplit[0].Trim();
                 password = puzzleinputsplit[1].Trim();
@@ -45,16 +45,24 @@ namespace AdventofCode2020
                 //Go through each character in the password
                 char[] charlist = new char[password.Length];
                 charlist = password.ToCharArray();
-
+                
+                // for(int i = 0; i < password.Length; i++)
+                // {
+                //     //Console.WriteLine(charlist[i]);
+                //     if (charlist[i] == letter)
+                //     {
+                //         matchedchars++;
+                //     }
+                // }
                 foreach (char letters in charlist)
                 {
-                    if (letters = letter)
+                    if (letters == letter)
                     {
                         matchedchars++;
                     }
                 }
                 //Validate Characters
-                if (matchedchars >= max && matchedchars <= min)
+                if (matchedchars <= max && matchedchars >= min)
                 {
                     validcount++;
                 }

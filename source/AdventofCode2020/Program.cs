@@ -9,7 +9,8 @@ namespace AdventofCode2020
             // TestFile.maintask();
             // Day1Part1.maintask();
             // Day1Part2.maintask();
-            Day2.maintask();
+            //Day2.part1();
+            Day2.part2();
             Console.ReadKey();
         }
     }

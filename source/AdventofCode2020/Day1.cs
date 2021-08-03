@@ -7,11 +7,11 @@ using System.Diagnostics;
 
 namespace AdventofCode2020
 {
-    public class Day1Part1
+    public class Day1
     {
-        public static void maintask()
+        public static void part1()
         {
-            string filepath = "day1.txt";
+            string filepath = "inputs/day1.txt";
             List<int> puzinp = File.ReadAllLines(filepath).Select(Int32.Parse).ToList();
             List<int> puzinplow;
             puzinplow = new List<int>();
@@ -74,6 +74,14 @@ namespace AdventofCode2020
             // Console.WriteLine($"High value = {val1}");
             // Console.WriteLine($"Low value = {val2}");      
             Console.WriteLine($"Final Result = {val1*val2}"); 
+        }
+        public class part2
+        {
+            public static void maintask()
+            {
+                string filepath = "inputs/day1.txt";
+                List<int> input = File.ReadAllLines(filepath).Select(Int32.Parse).ToList(); 
+            }
         }
     }
 }

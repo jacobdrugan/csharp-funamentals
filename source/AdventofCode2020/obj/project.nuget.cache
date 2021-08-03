@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "in5KrA+vFt1SlApaT4LKjzsd9FB0aQ7yDIa/WH/j/pi06ktGBQGAsIzT2KV6BoPyDNRk0pBfZ9WoT1UKmWbAWQ==",
+  "dgSpecHash": "dA4t7PvZXwA/A5YDnlih/UDD4BsHviMGcdN8TwMpwJ0I8YEFvGTy0F7RgrNYrh2Ubjn79osZ57RR2EjIPeb5KQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacob\\Documents\\GitHub\\csharp-fundamentals\\source\\AdventofCode2020\\AdventofCode2020.csproj",
+  "projectFilePath": "C:\\Users\\jacob\\csharp-fundamentals\\source\\AdventofCode2020\\AdventofCode2020.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

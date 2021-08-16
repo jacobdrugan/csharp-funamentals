@@ -10,7 +10,8 @@ namespace AdventofCode2020
             // Day1.part1();
             // Day1.part2();
             // Day2.part1();
-            Day2.part2();
+            // Day2.part2();
+            Day3.part1();
             Console.ReadKey();
         }
     }

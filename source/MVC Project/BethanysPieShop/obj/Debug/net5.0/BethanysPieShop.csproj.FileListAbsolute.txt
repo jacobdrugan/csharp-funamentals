@@ -19,3 +19,4 @@ C:\Users\jacob\source\repos\jacobdrugan\csharp-fundamentals\source\MVC Project\B
 C:\Users\jacob\source\repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\ref\BethanysPieShop.dll
 C:\Users\jacob\source\repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.pdb
 C:\Users\jacob\source\repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.genruntimeconfig.cache
+C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.csproj.AssemblyReference.cache

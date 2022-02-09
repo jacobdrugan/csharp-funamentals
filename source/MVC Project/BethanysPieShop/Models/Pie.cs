@@ -9,7 +9,7 @@
         public string AllergyInformatioon   { get; set; }  
         public decimal Price { get; set; }  
         public string ImageURL { get; set; }    
-        public string ImageThumnailUrl { get; set; }
+        public string ImageThumbnailUrl { get; set; }
         public bool IsPieOfTheWeek { get; set; }
         public bool InStock { get; set; }
         public int CategoryID { get; set; }

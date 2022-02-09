@@ -3,7 +3,10 @@
     "",
     "\\source",
     "\\source\\MVC Project",
-    "\\source\\MVC Project\\BethanysPieShop"
+    "\\source\\MVC Project\\BethanysPieShop",
+    "\\source\\MVC Project\\BethanysPieShop\\Controllers",
+    "\\source\\MVC Project\\BethanysPieShop\\Models"
   ],
+  "SelectedNode": "\\source\\MVC Project\\BethanysPieShop\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }

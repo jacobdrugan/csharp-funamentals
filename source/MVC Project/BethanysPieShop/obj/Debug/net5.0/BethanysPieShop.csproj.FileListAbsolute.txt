@@ -1,4 +1,3 @@
-C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.csproj.AssemblyReference.cache
 C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.AssemblyInfoInputs.cache
 C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.AssemblyInfo.cs
@@ -31,3 +30,8 @@ C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\B
 C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.pdb
 C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.genruntimeconfig.cache
 C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.csproj.CopyComplete
+C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\bin\Debug\net5.0\libman.json
+C:\Users\jacob\Source\Repos\jacobdrugan\csharp-fundamentals\source\MVC Project\BethanysPieShop\obj\Debug\net5.0\BethanysPieShop.csproj.AssemblyReference.cache

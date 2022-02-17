@@ -30,11 +30,10 @@ namespace BethanysPieShop
             services.AddScoped<ICategoryRepository, MockCategoryRepository>();
             //services.AddTransient - New Instance
             //services.AddSingleton - Single Instance Per Request
-            //register services here through dependency injection
+            //register services here through dependency injection               
             //register framework services
             services.AddControllersWithViews();
-
-
+            services.AddSession();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -48,8 +47,6 @@ namespace BethanysPieShop
             // Response <--- Response Compression <--- Static Files <--- End Point
 
             //Examples of middleware
-            //app.UseDeveloperExceptionPage();
-            //app.UseStatusCodePages();
             //app.UseStaticFiles();
             //app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
 
@@ -57,11 +54,9 @@ namespace BethanysPieShop
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseSession();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-            app.UseSession();
-
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
